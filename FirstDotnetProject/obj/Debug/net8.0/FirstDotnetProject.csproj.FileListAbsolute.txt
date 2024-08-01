@@ -1,0 +1,15 @@
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/bin/Debug/net8.0/FirstDotnetProject
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/bin/Debug/net8.0/FirstDotnetProject.deps.json
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/bin/Debug/net8.0/FirstDotnetProject.runtimeconfig.json
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/bin/Debug/net8.0/FirstDotnetProject.dll
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/bin/Debug/net8.0/FirstDotnetProject.pdb
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/obj/Debug/net8.0/FirstDotnetProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/obj/Debug/net8.0/FirstDotnetProject.AssemblyInfoInputs.cache
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/obj/Debug/net8.0/FirstDotnetProject.AssemblyInfo.cs
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/obj/Debug/net8.0/FirstDotnetProject.csproj.CoreCompileInputs.cache
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/obj/Debug/net8.0/FirstDotnetProject.dll
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/obj/Debug/net8.0/refint/FirstDotnetProject.dll
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/obj/Debug/net8.0/FirstDotnetProject.pdb
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/obj/Debug/net8.0/FirstDotnetProject.genruntimeconfig.cache
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/obj/Debug/net8.0/ref/FirstDotnetProject.dll
+/Users/ryo/Documents/personal-projects/learning-c#/FirstDotnetProject/obj/Debug/net8.0/FirstDotnetProject.sourcelink.json

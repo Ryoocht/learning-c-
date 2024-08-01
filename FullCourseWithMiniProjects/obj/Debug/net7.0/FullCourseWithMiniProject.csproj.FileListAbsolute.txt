@@ -1,0 +1,15 @@
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/bin/Debug/net7.0/FullCourseWithMiniProject
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/bin/Debug/net7.0/FullCourseWithMiniProject.deps.json
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/bin/Debug/net7.0/FullCourseWithMiniProject.runtimeconfig.json
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/bin/Debug/net7.0/FullCourseWithMiniProject.dll
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/bin/Debug/net7.0/FullCourseWithMiniProject.pdb
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/obj/Debug/net7.0/FullCourseWithMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/obj/Debug/net7.0/FullCourseWithMiniProject.AssemblyInfoInputs.cache
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/obj/Debug/net7.0/FullCourseWithMiniProject.AssemblyInfo.cs
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/obj/Debug/net7.0/FullCourseWithMiniProject.csproj.CoreCompileInputs.cache
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/obj/Debug/net7.0/FullCourseWithMiniProject.dll
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/obj/Debug/net7.0/refint/FullCourseWithMiniProject.dll
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/obj/Debug/net7.0/FullCourseWithMiniProject.pdb
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/obj/Debug/net7.0/FullCourseWithMiniProject.genruntimeconfig.cache
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/obj/Debug/net7.0/ref/FullCourseWithMiniProject.dll
+/Users/ryo/Documents/personal-projects/learning-c#/FullCourseWithMiniProjects/obj/Debug/net7.0/FullCourseWithMiniProject.csproj.AssemblyReference.cache

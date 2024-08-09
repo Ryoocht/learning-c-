@@ -1,0 +1,8 @@
+/Users/ryo/Documents/personal-projects/learning-c#/FirstAPIProject/obj/Debug/net7.0/FirstAPIProject.csproj.AssemblyReference.cache
+/Users/ryo/Documents/personal-projects/learning-c#/FirstAPIProject/obj/Debug/net7.0/FirstAPIProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryo/Documents/personal-projects/learning-c#/FirstAPIProject/obj/Debug/net7.0/FirstAPIProject.AssemblyInfoInputs.cache
+/Users/ryo/Documents/personal-projects/learning-c#/FirstAPIProject/obj/Debug/net7.0/FirstAPIProject.AssemblyInfo.cs
+/Users/ryo/Documents/personal-projects/learning-c#/FirstAPIProject/obj/Debug/net7.0/FirstAPIProject.csproj.CoreCompileInputs.cache
+/Users/ryo/Documents/personal-projects/learning-c#/FirstAPIProject/obj/Debug/net7.0/FirstAPIProject.MvcApplicationPartsAssemblyInfo.cs
+/Users/ryo/Documents/personal-projects/learning-c#/FirstAPIProject/obj/Debug/net7.0/FirstAPIProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/ryo/Documents/personal-projects/learning-c#/FirstAPIProject/obj/Debug/net7.0/FirstAPIProject.sourcelink.json
